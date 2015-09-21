@@ -1,0 +1,84 @@
+{
+      "text": "RT @PostGradProblem: In preparation for the NFL lockout, I will be spending twice as much time analyzing my fantasy baseball team during ...", 
+      "truncated": true, 
+      "in_reply_to_user_id": null, 
+      "in_reply_to_status_id": null,
+      "favorited": false, 
+      "in_reply_to_screen_name": null, 
+      "in_reply_to_status_id_str": null, 
+      "id_str": "54691802283900928", 
+      "entities": {
+            "user_mentions": [
+                  {
+                        "indices": [
+                              3, 
+                              19
+                        ], 
+                        "screen_name": "PostGradProblem", 
+                        "id_str": "271572434", 
+                        "name": "PostGradProblems", 
+                        "id": 271572434
+                  }
+            ], 
+            "urls": [ ], 
+            "hashtags": [ ]
+      },
+      "retweeted": false, 
+      "in_reply_to_user_id_str": null, 
+      "retweet_count": 4,
+      "created_at": "Sun Apr 03 23:48:36 +0000 2011",
+      "retweeted_status": {
+            "text": "In preparation for the NFL lockout, I will be spending twice as much time analyzing my fantasy baseball team during company time. #PGP", 
+            "truncated": false, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_status_id": null, 
+            "favorited": false, 
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id_str": null, 
+            "id_str": "54640519019642881", 
+            "entities": {
+                  "user_mentions": [ ], 
+                  "urls": [ ], 
+                  "hashtags": [
+                        {
+                              "text": "PGP", 
+                              "indices": [
+                                    130, 
+                                    134
+                              ]
+                        }
+                  ]
+            }, 
+            "contributors": null, 
+            "retweeted": false, 
+            "in_reply_to_user_id_str": null, 
+            "place": null, 
+            "retweet_count": 4, 
+            "created_at": "Sun Apr 03 20:24:49 +0000 2011", 
+            "user": { 
+                  "statuses_count": 31, 
+                  "followers_count": 3066, 
+                  "listed_count": 6, 
+                  "screen_name": "PostGradProblem", 
+                  "id_str": "271572434", 
+                  "id": 271572434,  
+                  "friends_count": 21,
+                  "following": null
+            }, 
+            "id": 54640519019642880
+      }, "user": {
+            "statuses_count": 351, 
+            "followers_count": 48, 
+            "profile_image_url": "http://a1.twimg.com/profile_images/455128973/gCsVUnofNqqyd6tdOGevROvko1_500_normal.jpg", 
+            "listed_count": 0, 
+            "screen_name": "OldGREG85", 
+            "id_str": "80177619", 
+            "id": 80177619, 
+            "friends_count": 81, 
+            "protected": false, 
+            "favourites_count": 0, 
+            "following": null
+      }, 
+      "id": 54691802283900930
+}
