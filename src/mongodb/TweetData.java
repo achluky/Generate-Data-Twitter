@@ -52,9 +52,11 @@ public class TweetData {
         final List<Integer> models = new ArrayList<Integer>();
         final List<String> owners = new ArrayList<String>();
         final MongoClient client = new MongoClient();
-
+        
+        // name databases
         DB db = client.getDB("GenerateData");
-        DBCollection data = db.getCollection("data");
+        // name collection
+        DBCollection data = db.getCollection("data1");
 
         if ("true" .equals(System.getenv("DATA_DROP"))) {
             LOG.info("Dropping data");

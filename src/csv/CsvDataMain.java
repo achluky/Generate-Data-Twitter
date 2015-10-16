@@ -1,17 +1,17 @@
-package mongodb;
-
+package csv;
 import java.net.UnknownHostException;
 import java.util.Date;
+import csv.CsvData;
+public class CsvDataMain {
 
-// running library data
-// data mongodb
-public class TweetDataMain {
 	public static void main(String args[]) throws UnknownHostException
 	{
+		// path data
+        String fileName = System.getProperty("user.home")+"/workspace_2/hadoop-example/resrc/datauser-influence.csv";
 		// callculation running time and generate data
 	    long start = new Date().getTime();
-		TweetData call = new TweetData();
-		call.run();
+	    CsvData call = new CsvData();
+		call.run(fileName);
         long end = new Date().getTime();
         System.out.println("Job took "+(end-start) + " milliseconds");
 
