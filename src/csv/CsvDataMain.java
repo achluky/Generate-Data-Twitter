@@ -1,4 +1,5 @@
 package csv;
+
 import java.net.UnknownHostException;
 import java.util.Date;
 import csv.CsvData;
@@ -7,7 +8,7 @@ public class CsvDataMain {
 	public static void main(String args[]) throws UnknownHostException
 	{
 		// path data
-        String fileName = System.getProperty("user.home")+"/workspace_2/hadoop-example/resrc/datauser-influence.csv";
+        String fileName = "resource/data_sample.csv";
 		// callculation running time and generate data
 	    long start = new Date().getTime();
 	    CsvData call = new CsvData();

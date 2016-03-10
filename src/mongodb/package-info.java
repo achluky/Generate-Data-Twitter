@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author ahmadluky
- *
- */
-package mongodb;
